@@ -19,3 +19,7 @@ body{
     width: 100px;
     height: 100px;
 }
+.navbar{
+    gap: 20px;
+    
+}
