@@ -20,6 +20,9 @@ body{
     height: 100px;
 }
 .navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 20px;
     
 }
