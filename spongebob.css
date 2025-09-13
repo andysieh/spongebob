@@ -2,5 +2,16 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0px;
     background-color: #fff7f0;
-    
+    color: #222;
+}
+.header{
+    background-color: #ff9aa2;
+    color: white;
+}
+.header_container{
+    padding: 12px 20px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content:  space-between;
 }
