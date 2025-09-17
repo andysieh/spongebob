@@ -50,8 +50,9 @@ body{
     display: flex;
    flex-direction: column;
    align-items: center;
+   max-height: 300px;
 }
 .About_image img{
     width: 100%;
-    height: 50vh;
+    
 }
