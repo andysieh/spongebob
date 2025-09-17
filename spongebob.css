@@ -48,5 +48,9 @@ body{
 }
 .container{
     display: flex;
-    
+
+}
+.About_image img{
+    width: 70px;
+    height: 70px;
 }
