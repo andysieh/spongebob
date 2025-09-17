@@ -48,7 +48,8 @@ body{
 }
 .container{
     display: flex;
-
+   flex-direction: column;
+   align-items: center;
 }
 .About_image img{
     width: 200px;
