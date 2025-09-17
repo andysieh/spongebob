@@ -45,14 +45,16 @@ body{
     text-align: center;
     background-color: #4d96ff;
     color: #222;
+    max-height: 300px;
 }
 .container{
     display: flex;
    flex-direction: column;
    align-items: center;
-   max-height: 300px;
+   
 }
 .About_image img{
     width: 100%;
+
     
 }
