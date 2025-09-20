@@ -53,3 +53,12 @@ body{
    align-items: center;
    
 }
+.spongebob_Gallery{
+    padding: 20px 30px;
+   
+
+}
+.Gallery_container{
+display: grid;
+gap: 20px;
+}
