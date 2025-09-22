@@ -56,6 +56,7 @@ body{
 .spongebob_Gallery{
     padding: 20px 30px;
    align-items: center;
+   text-align: center;
 
 }
 .Gallery_container{
