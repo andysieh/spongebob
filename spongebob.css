@@ -57,7 +57,7 @@ body{
     padding: 20px 30px;
    align-items: center;
    text-align: center;
-   background-color: #4d96ff;
+   background-color: #FFCE1B;
 }
 .Gallery_container{
 display: flex;
@@ -76,5 +76,5 @@ object-fit: cover;
 display: block;
 }
 .fact_section{
-    background-color: #FFCE1B;
+    background-color: #4d96ff;
 }
