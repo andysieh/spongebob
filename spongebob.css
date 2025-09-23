@@ -57,7 +57,7 @@ body{
     padding: 20px 30px;
    align-items: center;
    text-align: center;
-
+   background-color: #4d96ff;
 }
 .Gallery_container{
 display: flex;
