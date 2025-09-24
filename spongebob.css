@@ -87,4 +87,5 @@ form{
     display: flex;
     flex-direction: column;
     max-width: 720px;
+    gap: 12px;
 }
