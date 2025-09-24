@@ -78,3 +78,12 @@ display: block;
 .fact_section{
     background-color: #4d96ff;
 }
+.Contact_section{
+    padding:20px 30px;
+    text-align: center;
+    background-color: #FFCE1B;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
