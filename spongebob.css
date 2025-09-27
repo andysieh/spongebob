@@ -88,4 +88,8 @@ form{
     flex-direction: column;
     max-width: 720px;
     gap: 12px;
+    
+}
+.footer{
+    background-color:#ff9aa2;
 }
